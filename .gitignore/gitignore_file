@@ -1,0 +1,45 @@
+# Data directories
+data/
+Arsenal/
+Aston Villa/
+Bournemouth/
+Brentford/
+Brighton/
+Chelsea/
+Crystal Palace/
+Everton/
+Fulham/
+Ipswich Town/
+Leicester City/
+Liverpool/
+Manchester City/
+Manchester Utd/
+Newcastle Utd/
+Nott'ham Forest/
+Southampton/
+Tottenham/
+West Ham/
+Wolves/
+processed_data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
