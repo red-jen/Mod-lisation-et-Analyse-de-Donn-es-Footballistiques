@@ -1,0 +1,20 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "foot_ball",
+    "user": "postgres",
+    "password": "Ren-ji24"
+  },
+  "scraping": {
+    "url": "https://fbref.com/en/comps/9/2024-2025/2024-2025-Premier-League-Stats",
+    "timeout": 10,
+    "wait_time": 3
+  },
+  "data": {
+    "raw_dir": "data",
+    "processed_dir": "processed_data",
+    "stats_table_id": "stats_standard_9",
+    "matches_table_id": "matchlogs_for"
+  }
+}
